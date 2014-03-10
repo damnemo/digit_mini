@@ -1,0 +1,20 @@
+# directory/files da ignorare
+#------------------------------
+
+eagleUp/*
+
+
+# tranne file
+#------------------------------
+!eagleUp/*.skp
+
+
+# file temp di pcb e sch
+#------------------------------
+
+*.b#*
+*.s#*
+
+
+
+
